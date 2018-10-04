@@ -1,5 +1,5 @@
 TEAM,NAME,POSITION,YEAR,Stars
-Air Force,Dailen Sutton,CB,3,5
+Air Force,Dailen Sutton,CB,4,7
 Air Force,Marquis Griffin,CB,4,5
 Air Force,Brett Baldwin,CB,4,4
 Air Force,Robert Bullard,CB,3,4
@@ -6199,94 +6199,94 @@ Tennessee,Latrell Williams,WR,1,6
 Texas,Holton Hill,CB,3,7
 Texas,Kris Boyd,CB,3,7
 Texas,PJ Locke,CB,3,6
-Texas,Josh Thompson,CB,1,6
-Texas,Antwuan Davis,CB,4,5
-Texas,Davante Davis,CB,3,5
-Texas,Eric Cuffee,CB,1,5
-Texas,Donovan Duvernay,CB,1,5
-Texas,Poona Ford,DL,4,9
-Texas,Gerald Wilbon,DL,2,7
-Texas,Malcolm Roach,DL,2,7
-Texas,Chris Nelson,DL,3,6
-Texas,Jamari Chisholm,DL,3,6
-Texas,Charles Omenihu,DL,3,6
-Texas,Taquon Graham,DL,1,6
-Texas,Andrew Fitzgerald,DL,1,6
-Texas,Tope Imade,DL,1,5
-Texas,D'andre Christmas,DL,2,5
-Texas,Chris Daniels,DL,1,5
-Texas,Michael Dickson,K,3,10
-Texas,Joshua Rowland,K,3,6
-Texas,Malik Jefferson,LB,3,9
-Texas,Breckyn Hager,LB,3,9
-Texas,Anthony Wheeler,LB,3,7
-Texas,Edwin Freeman,LB,3,7
-Texas,Naashon Hughes,LB,4,7
-Texas,Gary Johnson,LB,3,7
-Texas,Jeffrey Mcculloch,LB,2,6
-Texas,Cameron Townsend,LB,2,6
-Texas,Demarco Boyd,LB,1,5
-Texas,Marqez Bimage,LB,1,5
-Texas,Connor Williams,OL,3,10
-Texas,Zach Shackleford,OL,2,9
-Texas,Patrick Vahe,OL,4,8
-Texas,Jake Mcmillon,OL,3,7
-Texas,Elijah Rodriguez,OL,3,7
-Texas,Patrick Hudson,OL,1,6
-Texas,Denzel Okafor,OL,2,6
-Texas,JP Urquidez,OL,1,6
-Texas,Tristan Nickelson,OL,4,6
-Texas,Garrett Thomas,OL,2,5
-Texas,Alex Anderson,OL,3,5
-Texas,Derek Kerstetter,OL,1,5
-Texas,Shane Buechele,QB,2,7
-Texas,Sam Ehlinger,QB,1,6
-Texas,Josh Covey,QB,2,4
-Texas,Chris Warren,RB,3,8
-Texas,Kyle Porter,RB,2,6
-Texas,Kirk Johnson,RB,2,6
-Texas,Toneil Carter,RB,1,6
-Texas,Daniel Young,RB,1,5
-Texas,Deshon Elliott,S,3,7
-Texas,John Bonney,S,4,7
-Texas,Jason Hall,S,4,6
-Texas,Brandon Jones,S,2,6
-Texas,Montrell Estell,S,1,6
-Texas,Chris Brown,S,1,6
-Texas,Andrew Beck,TE,4,6
-Texas,Reese Leitao,TE,1,5
-Texas,Kendall Moore,TE,4,5
-Texas,Cade Brewer,TE,1,5
-Texas,Collin Johnson,WR,2,8
-Texas,Devin Duvernay,WR,2,8
-Texas,Lil'jordan Humphrey,WR,2,7
-Texas,Reggie Hemphillmap,WR,1,7
-Texas,Armanti Foreman,WR,4,7
-Texas,John Burt,WR,3,7
-Texas,Dorian Leonard,WR,4,7
-Texas,Jerrod Heard,WR,3,7
-Texas AM,Nick Harvey,CB,4,8
-Texas AM,Priest Willis,CB,4,7
-Texas AM,Charles Oliver,CB,2,6
-Texas AM,Roney Elam,CB,2,6
-Texas AM,Deshawn Capers-smit,CB,3,6
-Texas AM,Kemah Siverand,CB,2,6
-Texas AM,Devin Morris,CB,2,6
-Texas AM,Travon Fuller,CB,1,6
-Texas AM,Kingsley Keke,DL,3,8
-Texas AM,Daylon Mack,DL,3,8
-Texas AM,Zaycoven Henderson,DL,4,8
-Texas AM,Qualen Cunningham,DL,4,7
-Texas AM,Justin Madubuike,DL,1,6
-Texas AM,Jarrett Johnson,DL,4,6
-Texas AM,Michael Clemons,DL,3,6
-Texas AM,TD Moton,DL,1,6
-Texas AM,Jayden Peevy,DL,1,6
-Texas AM,Tyree Johnson,DL,3,5
-Texas AM,Landis Durham,DL,3,5
-Texas AM,Shane Tripucka,K,4,7
-Texas AM,Daniel Lacamera,K,3,6
-Texas AM,Otara Alaka,LB,3,7
+Texas,Houston Steven,CB,5
+Texas,Antwuan Davis,CB,5
+Texas,Davante Davis,CB,5
+Texas,Eric Cuffee,CB,5
+Texas,Donovan Duvernay,CB,5
+Texas,Poona Ford,DL,5
+Texas,Gerald Wilbon,DL,5
+Texas,Malcolm Roach,DL,5
+Texas,Chris Nelson,DL,5
+Texas,Jamari Chisholm,DL,5
+Texas,Charles Omenihu,DL,5
+Texas,Taquon Graham,DL,5
+Texas,Andrew Fitzgerald,DL,5
+Texas,Tope Imade,DL,5
+Texas,D'andre Christmas,DL,5
+Texas,Chris Daniels,DL,5
+Texas,Steven Haushka,K,5
+Texas,Joshua Rowland,K,5
+Texas,Malik Jefferson,LB,5
+Texas,Breckyn Hager,LB,5
+Texas,Anthony Wheeler,LB,5
+Texas,Edwin Freeman,LB,5
+Texas,Naashon Hughes,LB,5
+Texas,Gary Johnson,LB,5
+Texas,Jeffrey Mcculloch,LB,5
+Texas,Cameron Townsend,LB,5
+Texas,Demarco Boyd,LB,5
+Texas,Marqez Bimage,LB,5
+Texas,Connor Williams,OL,5
+Texas,Zach Shackleford,OL,5
+Texas,Patrick Vahe,OL,5
+Texas,Jake Mcmillon,OL,5
+Texas,Elijah Rodriguez,OL,5
+Texas,Patrick Hudson,OL,5
+Texas,Denzel Okafor,OL,5
+Texas,JP Urquidez,OL,5
+Texas,Tristan Nickelson,OL,5
+Texas,Garrett Thomas,OL,5
+Texas,Alex Anderson,OL,5
+Texas,Derek Kerstetter,OL,5
+Texas,Kirk Cousins,QB,5
+Texas,Sam Ehlinger,QB,5
+Texas,Josh Covey,QB,5
+Texas,Leonard Fornette,RB,5
+Texas,Dalvin Cook,RB,5
+Texas,Kirk Johnson,RB,5
+Texas,Toneil Carter,RB,5
+Texas,Daniel Young,RB,5
+Texas,Xavier Rhodes,S,5
+Texas,John Bonney,S,5
+Texas,Jason Hall,S,5
+Texas,Brandon Jones,S,5
+Texas,Montrell Estell,S,5
+Texas,Chris Brown,S,5
+Texas,Kyle Rudolph,TE,5
+Texas,Reese Leitao,TE,5
+Texas,Kendall Moore,TE,5
+Texas,Cade Brewer,TE,5
+Texas,Stefon Diggs,WR,5
+Texas,Adam Thelein,WR,5
+Texas,Lil'jordan Humphrey,WR,5
+Texas,Reggie Hemphillmap,WR,5
+Texas,Armanti Foreman,WR,5
+Texas,John Burt,WR,5
+Texas,Dorian Leonard,WR,5
+Texas,Jerrod Heard,WR,5
+Texas AM,Nick Harvey,CB,1
+Texas AM,Priest Willis,CB,1
+Texas AM,Charles Oliver,CB,1
+Texas AM,Roney Elam,CB,1
+Texas AM,Deshawn Capers-smit,CB,1
+Texas AM,Kemah Siverand,CB,1
+Texas AM,Devin Morris,CB,1
+Texas AM,Travon Fuller,CB,1
+Texas AM,Kingsley Keke,DL,1
+Texas AM,Daylon Mack,DL,1
+Texas AM,Zaycoven Henderson,DL,1
+Texas AM,Qualen Cunningham,DL,1
+Texas AM,Justin Madubuike,DL,1
+Texas AM,Jarrett Johnson,DL,1
+Texas AM,Michael Clemons,DL,1
+Texas AM,TD Moton,DL,1
+Texas AM,Jayden Peevy,DL,1
+Texas AM,Tyree Johnson,DL,1
+Texas AM,Landis Durham,DL,1
+Texas AM,Shane Tripucka,K,1
+Texas AM,Daniel Lacamera,K,1
+Texas AM,Otara Alaka,LB,1
 Texas AM,Anthony Hines,LB,1,6
 Texas AM,Justin Dunning,LB,2,6
 Texas AM,Tyrell Dodson,LB,2,6
